@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shopping Cart</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="product_desc">Praise and Glory be God Almighty. We raised our hand in adoration for his heavenly guidance, protection and shower of blessing from our creator during the completion of this project. We would like to acknowledge all those who have given moral and helped us make the project a success. We also express our sincere gratitude to our project guide at Aptech, for his/her valuable guidance and support for the completion of this project. And finally, we would like to offer many thanks to all our colleague for their valuable suggestion and constructive feedback.</string>
+
+    <string-array name="quantity_string_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5(Max)</item>
+    </string-array>
+</resources>
